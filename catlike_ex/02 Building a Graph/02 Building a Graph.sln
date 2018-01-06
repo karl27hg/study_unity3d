@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Building a Graph", "02 Building a Graph.csproj", "{667421E2-D823-777F-235E-E50A6C9DEEB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667421E2-D823-777F-235E-E50A6C9DEEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667421E2-D823-777F-235E-E50A6C9DEEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667421E2-D823-777F-235E-E50A6C9DEEB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667421E2-D823-777F-235E-E50A6C9DEEB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
