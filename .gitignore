@@ -1,0 +1,17 @@
+# vs 2015, code 환경설정 파일
+.vscode/
+.vs/
+
+# 유니티 환경설정 파일
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+sysinfo.txt
