@@ -33,4 +33,9 @@ public class Stuff : PooledObject
             meshRenderers[i].material = m;
         }
     }
+
+    private void OnLevelWasLoaded()
+    {
+        RetrunToPool();
+    }
 }
