@@ -80,6 +80,9 @@
   <ItemGroup>
     <Compile Include="Assets\Prefabs\FPS Counter\FPSCounter.cs" />
     <Compile Include="Assets\Prefabs\FPS Counter\FPSDisplay.cs" />
+    <Compile Include="Assets\Scripts\ObjectPool.cs" />
+    <Compile Include="Assets\Scripts\PooledObject.cs" />
+    <Compile Include="Assets\Scripts\SceneSwitcher.cs" />
     <Compile Include="Assets\Scripts\Stuff.cs" />
     <Compile Include="Assets\Scripts\StuffSpawner.cs" />
     <Compile Include="Assets\Scripts\StuffSpawnerRing.cs" />
