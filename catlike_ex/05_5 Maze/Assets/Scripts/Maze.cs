@@ -21,6 +21,8 @@ public class Maze : MonoBehaviour
     [Range(0f, 1f)]
     public float doorPrebability;
 
+    public MazeRoomSettings[] roomSettings;
+
     public MazeCell GetCell(IntVector2 coordinates)
     {
         return cells[coordinates.x, coordinates.z];
